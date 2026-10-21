@@ -1,0 +1,33 @@
+#paragraph{
+    
+    font-weight: bold;
+
+}
+
+
+#customer{
+
+    background-color: aqua;
+    margin: 80px;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+
+#main{
+
+    display: flex;
+}
+
+
+.one{
+
+    background-color: rgb(129, 128, 128);
+    margin-left: 20px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    color: aliceblue;
+
+}
